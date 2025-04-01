@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "/home/l/tmp/mytheme.jsonc": {},
+        "activityBar.background": "#53025D",
+        "titleBar.activeBackground": "#750282",
+        "titleBar.activeForeground": "#FEFBFF",
+        "statusBar.background": "#750282",
+        "statusBar.foreground": "#FEFBFF"
+    }
+}
